@@ -1,0 +1,27 @@
+# ---- Build trees (out-of-source) ----
+/build/
+/build-*/
+/cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+install_manifest.txt
+*_autogen/
+.qt/
+/_CPack_Packages/
+*.tar.gz
+*.zip
+*.dmg
+*.AppImage
+*.msi
+*.user
+*.pro.user*
+*.qbs.user*
+*.qmlproject.user*
+*.creator.*
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db

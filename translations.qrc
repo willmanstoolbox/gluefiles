@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/i18n">
+    <file>i18n/gluefiles_es.qm</file>
+    <!-- optional alias so es_ES also matches -->
+    <file alias="gluefiles_es_ES.qm">i18n/gluefiles_es.qm</file>
+  </qresource>
+</RCC>

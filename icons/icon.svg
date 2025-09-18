@@ -1,0 +1,14 @@
+<svg viewBox="60.416 29.696 138.752 181.248" xmlns="http://www.w3.org/2000/svg" style="max-height: 500px" width="138.752" height="181.248">
+  <title>Glue Files — glue bottle only</title>
+  
+  <g transform="translate(128,128) rotate(-18) translate(-128,-128)" stroke-linejoin="round" stroke-linecap="round" stroke-width="6" stroke="#0F172A" fill="none" id="glue-bottle">
+    
+    <rect fill="#FFFFFF" rx="16" height="116" width="104" y="76" x="76"/>
+    
+    <rect fill="#E0F2FE" rx="8" height="36" width="80" y="116" x="88"/>
+    
+    <rect fill="#FFFFFF" rx="8" height="28" width="48" y="56" x="104"/>
+    
+    <path fill="#0EA5E9" d="M108 50 L148 50 L140 36 L116 36 Z"/>
+  </g>
+</svg>
